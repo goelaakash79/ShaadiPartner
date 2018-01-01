@@ -28,13 +28,13 @@ public class LogoActivity extends AppCompatActivity implements View.OnClickListe
     public void onClick(View view) {
 
         if (view == loginbtn) {
-            finish();
+//            finish();
             startActivity(new Intent(LogoActivity.this, LoginActivity.class));
             return;
         }
 
         if (view == regbtn) {
-            finish();
+//            finish();
             startActivity(new Intent(LogoActivity.this, RegisterActivity.class));
             return;
         }

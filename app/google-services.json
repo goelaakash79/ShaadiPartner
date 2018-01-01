@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "946888666774",
+    "firebase_url": "https://shaadi-partner.firebaseio.com",
+    "project_id": "shaadi-partner",
+    "storage_bucket": "shaadi-partner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946888666774:android:540b2d13fe164385",
+        "android_client_info": {
+          "package_name": "com.example.aakash.shaadipartner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946888666774-e2utqqt96b595pc3bon00c6f03b3349p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo1iE4kulb7ohJExsnbM3RahRkEHL2xk8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

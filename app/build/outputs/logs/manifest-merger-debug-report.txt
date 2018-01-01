@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from G:\Android\ShaadiPartner\app\src\main\AndroidManifest.xml:2:1-31:12
-INJECTED from G:\Android\ShaadiPartner\app\src\main\AndroidManifest.xml:2:1-31:12
-INJECTED from G:\Android\ShaadiPartner\app\src\main\AndroidManifest.xml:2:1-31:12
-INJECTED from G:\Android\ShaadiPartner\app\src\main\AndroidManifest.xml:2:1-31:12
+ADDED from G:\Android\ShaadiPartner\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from G:\Android\ShaadiPartner\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from G:\Android\ShaadiPartner\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from G:\Android\ShaadiPartner\app\src\main\AndroidManifest.xml:2:1-32:12
 MERGED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\aakash\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\29e38a1d2d46129f3da9781128b33057\AndroidManifest.xml:17:1-32:12
 MERGED from [com.google.firebase:firebase-database:11.8.0] C:\Users\aakash\.gradle\caches\transforms-1\files-1.1\firebase-database-11.8.0.aar\4d197e989e528ff2e86fc106a3e2aebf\AndroidManifest.xml:2:1-8:12
 MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\aakash\.gradle\caches\transforms-1\files-1.1\firebase-core-11.8.0.aar\be65c0b1ee1bfa834cf6559a9ccbef91\AndroidManifest.xml:2:1-6:12
@@ -37,20 +37,20 @@ MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] C:\Users\aak
 MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] C:\Users\aakash\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.8.0.aar\e99323f1d33d71fb8b2df4863a1b1192\AndroidManifest.xml:2:1-6:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\aakash\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\3049e80095973fa88ffc39345199467e\AndroidManifest.xml:17:1-30:12
 MERGED from [com.google.firebase:firebase-iid-license:11.8.0] C:\Users\aakash\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.8.0.aar\d9b07baae21a98a841cc87d3ae83368f\AndroidManifest.xml:2:1-6:12
-INJECTED from G:\Android\ShaadiPartner\app\src\main\AndroidManifest.xml:2:1-31:12
-INJECTED from G:\Android\ShaadiPartner\app\src\main\AndroidManifest.xml:2:1-31:12
-INJECTED from G:\Android\ShaadiPartner\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from G:\Android\ShaadiPartner\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from G:\Android\ShaadiPartner\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from G:\Android\ShaadiPartner\app\src\main\AndroidManifest.xml:2:1-32:12
 	package
 		ADDED from G:\Android\ShaadiPartner\app\src\main\AndroidManifest.xml:3:5-47
 		INJECTED from G:\Android\ShaadiPartner\app\src\main\AndroidManifest.xml
 		INJECTED from G:\Android\ShaadiPartner\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from G:\Android\ShaadiPartner\app\src\main\AndroidManifest.xml
-		ADDED from G:\Android\ShaadiPartner\app\src\main\AndroidManifest.xml:2:1-31:12
+		ADDED from G:\Android\ShaadiPartner\app\src\main\AndroidManifest.xml:2:1-32:12
 		INJECTED from G:\Android\ShaadiPartner\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from G:\Android\ShaadiPartner\app\src\main\AndroidManifest.xml
-		ADDED from G:\Android\ShaadiPartner\app\src\main\AndroidManifest.xml:2:1-31:12
+		ADDED from G:\Android\ShaadiPartner\app\src\main\AndroidManifest.xml:2:1-32:12
 		INJECTED from G:\Android\ShaadiPartner\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from G:\Android\ShaadiPartner\app\src\main\AndroidManifest.xml:2:11-69
@@ -65,7 +65,7 @@ MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\aakash\.gradle\ca
 	android:name
 		ADDED from G:\Android\ShaadiPartner\app\src\main\AndroidManifest.xml:5:22-64
 application
-ADDED from G:\Android\ShaadiPartner\app\src\main\AndroidManifest.xml:7:5-29:19
+ADDED from G:\Android\ShaadiPartner\app\src\main\AndroidManifest.xml:7:5-30:19
 MERGED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\aakash\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\29e38a1d2d46129f3da9781128b33057\AndroidManifest.xml:22:5-30:19
 MERGED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\aakash\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\29e38a1d2d46129f3da9781128b33057\AndroidManifest.xml:22:5-30:19
 MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\aakash\.gradle\caches\transforms-1\files-1.1\firebase-core-11.8.0.aar\be65c0b1ee1bfa834cf6559a9ccbef91\AndroidManifest.xml:5:5-20
@@ -169,9 +169,13 @@ ADDED from G:\Android\ShaadiPartner\app\src\main\AndroidManifest.xml:27:9-51
 	android:name
 		ADDED from G:\Android\ShaadiPartner\app\src\main\AndroidManifest.xml:27:19-48
 activity#com.example.aakash.shaadipartner.ProfileActivity
-ADDED from G:\Android\ShaadiPartner\app\src\main\AndroidManifest.xml:28:9-62
+ADDED from G:\Android\ShaadiPartner\app\src\main\AndroidManifest.xml:28:9-53
 	android:name
 		ADDED from G:\Android\ShaadiPartner\app\src\main\AndroidManifest.xml:28:19-50
+activity#com.example.aakash.shaadipartner.LogoActivity
+ADDED from G:\Android\ShaadiPartner\app\src\main\AndroidManifest.xml:29:9-59
+	android:name
+		ADDED from G:\Android\ShaadiPartner\app\src\main\AndroidManifest.xml:29:19-47
 uses-sdk
 INJECTED from G:\Android\ShaadiPartner\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from G:\Android\ShaadiPartner\app\src\main\AndroidManifest.xml
